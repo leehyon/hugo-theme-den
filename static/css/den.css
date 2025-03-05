@@ -312,7 +312,11 @@ h4 {
   text-align: center;
   font-style: italic;
 }
-.translations, .header-tags {
+.translations {
+  font-size: 11px;
+  color: #fff;
+}
+.header-tags {
   font-size: 11px;
   color: #fff;
   font-style: italic;
