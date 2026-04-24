@@ -200,7 +200,7 @@ h2:after {
 }
 
 h3 { 
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.285714285714286em; 
   font-weight: 600;
   margin-top: 30px; 
@@ -215,12 +215,19 @@ h3:after {
 }
 
 h4 { 
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1.285714285714286em; 
   font-weight: 600;
   margin-top: 30px; 
   margin-bottom: 20px;
-  /* text-transform: uppercase; */
+}
+
+h5, h6 { 
+  font-size: 16px;
+  line-height: 1.285714285714286em; 
+  font-weight: 600;
+  margin-top: 30px; 
+  margin-bottom: 20px;
 }
 
 /* Navbar */
